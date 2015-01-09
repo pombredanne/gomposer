@@ -19,3 +19,9 @@ As a base we used [Composer in version 1.0.0-alpha9](https://github.com/composer
 We do not want to port every feature in a different language.
 Currently this is a simple PoC and no feature was implemented yet.
 If we get something working we will know you :)
+
+## Compile it
+
+```
+$ go build -o gomposer src/main.go
+```
